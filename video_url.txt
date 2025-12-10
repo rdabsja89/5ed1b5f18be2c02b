@@ -1,0 +1,5 @@
+Player URL:
+https://rdabsja89.github.io/player/?list=https://raw.githubusercontent.com/rdabsja89/5ed1b5f18be2c02b/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/rdabsja89/5ed1b5f18be2c02b/refs/heads/master/github_master.m3u8
